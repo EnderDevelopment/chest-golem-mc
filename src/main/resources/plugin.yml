@@ -1,0 +1,11 @@
+name: ChestGolemPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin that adds a new chest golem entity
+authors: [EnderDevelopment]
+api-version: "1.21"
+commands:
+  chestgolem:
+    description: Main command for the Chest Golem plugin
+    usage: /chestgolem
